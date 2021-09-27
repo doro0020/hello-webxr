@@ -16,6 +16,7 @@ export default {
   newsticker_tex: { url: 'newsticker.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   mozillamr_tex: { url: 'mozillamr.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   zoomicon_tex: { url: 'zoomicon.png', options: { encoding: THREE.sRGBEncoding } },
+  test_thing:{ url: 'test.glb' },
 
   // panoramas
   panoballfx_tex: { url: 'ballfx.basis', options: { wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping } },
